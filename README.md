@@ -86,7 +86,7 @@ It is strongly recommended to double-check the CSV input files and role configur
 Below are sample structures of created Teams and channels:
 
 **Multiple Groups in One Team:**  
-![Groups Example 1](images/example_groups1.png)
+![Groups Example 1](docs/images/example_groups1.png)
 
 **Team with Demonstrators and Subgroups:**  
-![Groups Example 2](images/example_groups2.png)
+![Groups Example 2](docs/images/example_groups2.png)
